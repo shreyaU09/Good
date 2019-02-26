@@ -1,12 +1,11 @@
 package good;
 
-public class Good1 {
+public class GoodTwo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		System.out.println("This class is empty");
 
-		System.out.println("123");
-		System.out.println("4567");
 	}
 
 }
